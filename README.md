@@ -1,5 +1,7 @@
 # Utterson Example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alexander-heimbuch/utterson-example.svg)](https://greenkeeper.io/)
+
 Example implementation for deploying a [Utterson](https://github.com/alexander-heimbuch/utterson) generated blog with [CricleCi](https://circleci.com/).
 
 <div style="text-align:center; font-size: 1.5em; font-weight: 500; width: 100%;"><a href="https://alexander-heimbuch.github.com/utterson-example">Live Demo</a></div>
